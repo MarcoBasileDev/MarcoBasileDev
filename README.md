@@ -3,8 +3,8 @@ Full-Stack Developer | Problem Solver | Music Enthusiast
 
 ## Quick Overview
 - 👀 I’m interested in exploring the ever-evolving world of technology.
-- 🌱 I’m currently diving deep into Python, Machine Learning and React.
-- 💞️ I love to share the knowledge that I gain.
+- 🌱 Currently focusing on deepening my knowledge in Python, Machine Learning, and React.
+- 💞️ I love to share the knowledge that I gain. Feel free to reach out if you have any questions about these areas!
 
 
 ## Skills
@@ -26,14 +26,9 @@ I'm constantly learning and expanding my skillset. Feel free to reach out if you
 
 I'm a big believer in pushing my limits and learning new things. I actively engage in problem-solving challenges like those on LeetCode to hone my technical skills and approach problems with a clear and analytical mindset.
 
-## Interests
+## Other Interests
 
 Beyond coding, I'm passionate about a few things:
 
 * **Music Production:** In my free time, I'm passionate about creating music, delving into the world of sound design and music production using FL Studio as my primary tool. I'm an avid self-learner, constantly exploring new techniques and pushing the boundaries of my creativity. Through music production, I find a unique outlet for self-expression, crafting melodies and rhythms that resonate with my emotions and experiences.
-* **LEGO:** I love building LEGOs
-
-<!---
-MarcoBasileDev/MarcoBasileDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **LEGO:** I love building LEGOs.
